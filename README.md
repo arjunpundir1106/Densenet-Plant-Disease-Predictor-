@@ -36,5 +36,10 @@ Non-trainable params: 86208 (336.75 KB)
 # Prediction Results
 
 ![Model Accuracy](ModelAcc.png)
+
 ![Model Loss](ModelLoss.png)
+
+# Application Preview
+
+![App Preview](appDEMO.jpg)
 
