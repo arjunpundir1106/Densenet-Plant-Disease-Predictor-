@@ -34,3 +34,7 @@ Non-trainable params: 86208 (336.75 KB)
 # Accuracy achieved through the model is approx 93%
 
 # Prediction Results
+
+![Model Accuracy](ModelAcc.png)
+![Model Loss](ModelLoss.png)
+
